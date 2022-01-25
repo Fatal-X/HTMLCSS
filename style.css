@@ -1,13 +1,13 @@
 body {
 	width: 1440px;
 	height: 7725px;
-	display:flex;
+	display: flex;
 	margin: 0 auto;
 	background: linear-gradient(113.49deg, #984D38 -30.3%, #181E41 58.12%);
 }
 
-.header {
-	display:flex;
+.menu {
+	display: flex;
 	position: absolute;
 	list-style: none; 
 	margin: 0 auto;
@@ -33,7 +33,7 @@ body {
 	font-weight: bold;
 	font-size: 25px;
 	line-height: 37px;
-	margin-top: -3px;
+	margin-top: -3;
 }
 
 .logo-span {
@@ -42,10 +42,10 @@ body {
 }
 
 .search {
-	display:flex;
+	display: flex;
 	width: 385px;
 	height: 50px;
-	margin: -10px 0px 10px 29px;
+	margin: -10 0 10 29;
 	border-radius: 10px;
 	background: rgba(255, 255, 255, 0.1);
 	padding-left: 35px;
@@ -88,6 +88,6 @@ button {
 }
 
 .menu_button {
-	margin-top: -10px;
+	margin-top: -10;
 }
 
