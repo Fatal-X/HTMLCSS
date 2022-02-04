@@ -35,7 +35,6 @@
 header {
 	display: flex;
 	align-items: center;
-	list-style: none; 
 	margin-top: 11px;
 	font-family: Poppins;
 	font-style: normal;
@@ -281,3 +280,4 @@ img {
 	letter-spacing: 0.01em;
 
 }
+
